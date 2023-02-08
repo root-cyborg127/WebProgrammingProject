@@ -1,0 +1,279 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f100;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color on hover */
+
+li a:hover {
+    background-image: linear-gradient(to right, #282a2c76, #351c1c38, #dc2a2a22, #f80a0a7f);
+    box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
+}
+
+a:hover {
+    color: rgb(246, 240, 240);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:link {
+    color: antiquewhite;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.banner {
+    margin-top: -190px;
+    margin-left: 300px
+}
+
+.foot-left {
+    width: 60%;
+    margin-top: 100px;
+    margin-left: -10px;
+    width: 100px;
+}
+
+.btn-hover.color-8 {
+    background-image: linear-gradient(to right, #29323c, #485563, #2b5876, #4e4376);
+    box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.buttons {
+    margin: 10%;
+    text-align: center;
+}
+
+.btn-hover {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff00;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+
+
+/* FROM HERE */
+
+element.style {}
+
+.section-hero~.nmtitle-section {
+    background-color: transparent;
+}
+
+.nmtitle-section {
+    background: #00000000;
+    margin: 0 auto;
+    max-width: 1600px;
+    padding: 25px 5vw;
+    position: relative;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block;
+}
+
+* {
+    letter-spacing: 0!important;
+}
+
+user agent stylesheet section {
+    display: block;
+}
+
+body,
+html {
+    background-color: #181818;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+body,
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #13131300;
+    color: #33333300;
+    direction: ltr;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 16px;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+}
+
+.logo {
+    height: auto;
+    width: 100%;
+}
+
+
+/* second part */
+
+element.style {}
+
+.section-hero .info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    min-width: 500px;
+    padding: 16px 32px 64px 0;
+    position: relative;
+    width: 35%;
+    z-index: 2;
+}
+
+* {
+    letter-spacing: 0!important;
+}
+
+user agent stylesheet div {
+    display: block;
+}
+
+.section-hero {
+    background-position: 100%;
+    line-height: 1.4;
+    margin-bottom: -32px;
+    overflow: hidden;
+    padding: 0 5vw;
+}
+
+body,
+html {
+    background-color: #181818;
+    box-sizing: border-box;
+    color: #ffffff00;
+}
+
+body,
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #f3f3f300;
+    color: #333;
+    direction: ltr;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 16px;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+}
+
+
+/* .section-hero .info-container:after {
+    background: linear-gradient(90deg, #181818 10%, hsla(0, 0%, 9%, .98) 20%, hsla(0, 0%, 9%, .97) 25%, hsla(0, 0%, 9%, .95) 35%, hsla(0, 0%, 9%, .94) 40%, hsla(0, 0%, 9%, .92) 45%, hsla(0, 0%, 9%, .9) 50%, hsla(0, 0%, 9%, .87) 55%, hsla(0, 0%, 9%, .82) 60%, hsla(0, 0%, 9%, .75) 65%, hsla(0, 0%, 9%, .63) 70%, hsla(0, 0%, 9%, .45) 75%, hsla(0, 0%, 9%, .27) 80%, hsla(0, 0%, 9%, .15) 85%, hsla(0, 0%, 9%, .08) 90%, hsla(0, 0%, 9%, .03) 95%, hsla(0, 0%, 9%, 0));
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: -200px;
+    top: 0;
+    z-index: -1;
+} */
+
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+}
+
+
+/* Create three equal columns that sits next to each other */
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
